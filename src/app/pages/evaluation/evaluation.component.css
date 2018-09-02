@@ -1,0 +1,12 @@
+.container {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+hr {
+  height: 2px;
+  margin: 0;
+  margin-bottom: 2%;
+  padding: 0;
+  background-color: #000;
+}
