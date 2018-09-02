@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #252627;
+  color: #FFF9FB;
+}
+a, a:hover, small {
+  text-decoration: none;
+  color: #4B88A2;
+}
+
+#footer{
+  padding: 5%;
+}
