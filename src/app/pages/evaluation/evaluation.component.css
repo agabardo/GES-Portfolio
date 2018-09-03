@@ -4,9 +4,10 @@
 }
 
 hr {
-  height: 2px;
+  height: 6px;
   margin: 0;
   margin-bottom: 2%;
   padding: 0;
-  background-color: #000;
+  background-color: #F15152;
+  border-top: 7px #000 solid;
 }
