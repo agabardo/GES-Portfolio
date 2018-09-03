@@ -15,3 +15,7 @@ BLUE: #4B88A2
   font-family: 'Spectral', serif;
   font-size: 18px;
 }
+.btn-primary {
+  background-color: #4B88A2;
+  border: none;
+}
