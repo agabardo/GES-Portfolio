@@ -12,6 +12,7 @@
 }
 img {
   opacity: 0.3;
+  height: 100vh;
 }
 
 .carousel-indicators {
@@ -22,7 +23,7 @@ img {
   min-width: 20%;
 }
 
-.carousel-caption, h1, h3 {
+.carousel-caption, h1, h3, h4 {
   background-color: transparent;
   top: 30%;
   bottom: auto;
@@ -34,7 +35,7 @@ h1 {
   word-spacing: 4px;
   color: #FD6A02;
 }
-h3 {
+h3, h4 {
   font-family: 'Lato', sans-serif;
   font-weight: 100;
   color: #FFF9FB;
