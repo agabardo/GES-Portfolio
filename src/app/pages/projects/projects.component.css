@@ -11,29 +11,48 @@
 
 .card-group {
   padding: 10px;
-  margin-left: 5%;
-  margin-right: 5%;
+  /*margin-left: 5%;
+  margin-right: 5%;*/
   margin-bottom: 5%;
-  max-width: 30%;
+  max-width: 32%;
   display: inline-grid;
   margin-left: auto;
   margin-right: auto;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-align: left;
+}
+
+.card {
+  padding: 0;
+  margin: 0;
+}
+
+.card-img-top {
+  height: 270px;
+  width: 100%;
+}
+
+a, a:hover{
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F15152;
+}
+
+.card-title {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 100;
+  font-style: italic;
 }
 
 p.card-text {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-
-/*hr {
-  height: 6px;
-  margin: 0;
-  padding: 0;
-  background-color: #F15152;
-  border-top: 7px #000 solid;
-}*/
 
 .carousel-indicators {
   background-color: transparent;
